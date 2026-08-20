@@ -20,7 +20,7 @@ const HORARIO_CIERRE = 1;    // 1 AM
 const SALSAS_DISPONIBLES = [
   'Salsa de Ajo de la Casa',
   'Salsa Tártara Especial',
-  'Salsa BBQ Ahumada',
+  'Salsa BBQ Ahumada', 
   'Salsa de Queso Cheddar',
   'Salsa Rosada',
   'Salsa de Piña',
