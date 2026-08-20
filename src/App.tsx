@@ -24,7 +24,7 @@ const SALSAS_DISPONIBLES = [
   'Salsa de Queso Cheddar',
   'Salsa Rosada',
   'Salsa de Piña',
-  'Chimichurri Artesanal',
+  'Chimichurri Artesanal', 
   'Salsa Búfalo Picante'
 ];
 
